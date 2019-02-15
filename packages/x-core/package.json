@@ -9,9 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "@types/node": "^8.0.28"
-  },
   "devDependencies": {
     "typescript": "~3.0.0"
   }
